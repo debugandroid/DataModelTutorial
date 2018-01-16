@@ -1,4 +1,4 @@
-# DataModelTutorial
+# ViewModel Example
 It is a very simple example of ViewModel.
 ViewModel helps you keep your UI data available for the whole lifecycle of your activity and fragment.
 Even if your activity get restarted and you are using the ViewModel you don't need to featch data again from network,Internet or local device.
